@@ -32,13 +32,13 @@ $(document).ready(function(){
     });
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["DESILUDIR", "DECEPCIONAR", "FRUSTAR", "PREJUDICAR"],
+        strings: ["back-end", "front-end"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["FODA", "INCRIVEL", "PIKA", "DESEJÁVEL"],
+        strings: ["ENGENHOSO", "INCRIVEL", "BONITÃO", "BRILHANTE"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
